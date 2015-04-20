@@ -631,7 +631,7 @@ hr {
     margin-top: -50px;
   
   order: 4; height:800px; flex: 0 1 100%;
- background: url("..//img/frontimage.png") no-repeat center center;
+ background: url("..//img/frontimage.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
